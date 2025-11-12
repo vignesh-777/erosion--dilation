@@ -1,3 +1,6 @@
+# 9- Record-IMPLEMENTATION OF EROSION AND DILATION
+## Name: vignesh R
+## Ref No: 212223240177
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
